@@ -1,0 +1,14 @@
+{
+  "ToleranciaSaidaGratuitaMinutos": 15,
+  "ToleranciaDemaisHorasMinutos": 5,
+  "Tarifas": {
+    "Carro": {
+      "PrimeiraHora": 20.00,
+      "DemaisHoras": 5.00
+    },
+    "Moto": {
+      "PrimeiraHora": 10.00,
+      "DemaisHoras": 3.00
+    }
+  }
+}

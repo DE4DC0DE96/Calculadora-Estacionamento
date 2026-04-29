@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "56vQ7yANyTw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Web\\Estacionamento.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juann\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.12\\microsoft.net.illink.tasks.9.0.12.nupkg.sha512",
+    "C:\\Users\\juann\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.12\\microsoft.netcore.app.runtime.win-x64.9.0.12.nupkg.sha512",
+    "C:\\Users\\juann\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.12.nupkg.sha512",
+    "C:\\Users\\juann\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.12\\microsoft.aspnetcore.app.runtime.win-x64.9.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

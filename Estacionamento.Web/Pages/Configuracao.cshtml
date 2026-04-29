@@ -1,0 +1,71 @@
+@page
+@model ConfiguracaoModel
+@{
+    ViewData["Title"] = "Configura&ccedil;&atilde;o";
+}
+
+<section class="app-shell">
+    <header class="hero config-hero">
+        <div class="brand-block">
+            <img class="club-logo standalone-logo" src="/images/brasao-vasco.png" alt="Bras&atilde;o do Clube Vasco da Gama" />
+            <div class="brand-text">
+                <p class="club-name">Clube Vasco da Gama</p>
+                <h1>Configura&ccedil;&atilde;o</h1>
+            </div>
+        </div>
+        <a class="secondary-action" asp-page="/Index" data-smooth-link>Voltar</a>
+    </header>
+
+    <form method="post" class="panel config-panel">
+        <div class="panel-heading">
+            <div>
+                <p class="eyebrow">Arquivo JSON</p>
+                <h2>Valores de cobran&ccedil;a</h2>
+            </div>
+        </div>
+
+        @if (!string.IsNullOrWhiteSpace(Model.SuccessMessage))
+        {
+            <p class="success-message" role="status">@Model.SuccessMessage</p>
+        }
+
+        @if (!string.IsNullOrWhiteSpace(Model.ErrorMessage))
+        {
+            <p class="error-message" role="alert">@Model.ErrorMessage</p>
+        }
+
+        <div class="config-grid">
+            <label class="field">
+                <span>Toler&acirc;ncia sa&iacute;da gr&aacute;tis (min)</span>
+                <input asp-for="Input.ToleranciaSaidaGratuitaMinutos" type="number" min="0" step="1" />
+            </label>
+
+            <label class="field">
+                <span>Toler&acirc;ncia demais horas (min)</span>
+                <input asp-for="Input.ToleranciaDemaisHorasMinutos" type="number" min="0" step="1" />
+            </label>
+        </div>
+
+        <div class="config-tariffs">
+            @for (int i = 0; i < Model.Input.Tarifas.Count; i++)
+            {
+                <section class="config-card">
+                    <input type="hidden" asp-for="Input.Tarifas[i].TipoVeiculo" />
+                    <h3>@Model.Input.Tarifas[i].TipoVeiculo</h3>
+
+                    <label class="field">
+                        <span>1&ordf; hora</span>
+                        <input asp-for="Input.Tarifas[i].PrimeiraHora" type="number" min="0" step="0.01" />
+                    </label>
+
+                    <label class="field">
+                        <span>Demais horas</span>
+                        <input asp-for="Input.Tarifas[i].DemaisHoras" type="number" min="0" step="0.01" />
+                    </label>
+                </section>
+            }
+        </div>
+
+        <button type="submit" class="primary-action">Salvar configura&ccedil;&atilde;o</button>
+    </form>
+</section>

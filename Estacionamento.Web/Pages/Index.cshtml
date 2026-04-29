@@ -1,0 +1,113 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Calculadora de Estacionamento";
+}
+
+<section class="app-shell">
+    <header class="hero">
+        <div class="brand-block">
+            <img class="club-logo standalone-logo" src="/images/brasao-vasco.png" alt="Bras&atilde;o do Clube Vasco da Gama" />
+            <div class="brand-text">
+                <p class="club-name">Clube Vasco da Gama</p>
+                <h1>Estacionamento</h1>
+            </div>
+        </div>
+        <div class="hero-controls">
+            <div class="rule-summary" aria-label="Resumo das regras">
+                <span>@Model.Settings.ToleranciaSaidaGratuitaMinutos min gr&aacute;tis</span>
+                <strong>@Model.Settings.ToleranciaDemaisHorasMinutos min</strong>
+                <span>de toler&acirc;ncia nas horas cobradas</span>
+            </div>
+            <a class="settings-action" asp-page="/Configuracao" data-smooth-link aria-label="Abrir configura&ccedil;&atilde;o">Configura&ccedil;&atilde;o</a>
+        </div>
+    </header>
+
+    <form method="post" class="calculator-layout" data-calculator-form>
+        @Html.AntiForgeryToken()
+        <section class="panel form-panel" aria-labelledby="dados-title">
+            <div class="panel-heading">
+                <div>
+                    <p class="eyebrow">Entrada</p>
+                    <h2 id="dados-title">Dados da perman&ecirc;ncia</h2>
+                </div>
+            </div>
+
+            <div class="field-grid">
+                <label class="field">
+                    <span>Tipo de ve&iacute;culo</span>
+                    <select asp-for="Input.TipoVeiculo">
+                        @foreach (string tipo in Model.VehicleTypes)
+                        {
+                            <option value="@tipo">@tipo</option>
+                        }
+                    </select>
+                </label>
+
+                <label class="field">
+                    <span>Entrada</span>
+                    <input asp-for="Input.Entrada" asp-format="{0:yyyy-MM-ddTHH:mm}" type="datetime-local" />
+                </label>
+
+                <label class="field">
+                    <span>Sa&iacute;da</span>
+                    <input asp-for="Input.Saida" asp-format="{0:yyyy-MM-ddTHH:mm}" type="datetime-local" />
+                </label>
+            </div>
+
+            <button type="submit" class="primary-action">Calcular valor</button>
+
+            <p class="error-message" data-result-error role="alert" @(string.IsNullOrWhiteSpace(Model.ErrorMessage) ? "hidden" : "")>@Model.ErrorMessage</p>
+
+            <section class="tariff-list" aria-labelledby="tarifas-title">
+                <div class="section-title">
+                    <p class="eyebrow">Arquivo JSON</p>
+                    <h3 id="tarifas-title">Tarifas carregadas</h3>
+                </div>
+
+                <div class="tariff-grid">
+                    @foreach (var item in Model.Settings.Tarifas.OrderBy(rate => rate.Key))
+                    {
+                        <article class="tariff-item">
+                            <strong>@item.Key</strong>
+                            <span>1&ordf; hora @Model.FormatCurrency(item.Value.PrimeiraHora)</span>
+                            <span>Demais @Model.FormatCurrency(item.Value.DemaisHoras)</span>
+                        </article>
+                    }
+                </div>
+            </section>
+        </section>
+
+        <aside class="panel result-panel" aria-labelledby="resultado-title">
+            <div class="panel-heading">
+                <div>
+                    <p class="eyebrow">Resultado</p>
+                    <h2 id="resultado-title">Valor a pagar</h2>
+                </div>
+            </div>
+
+            <output class="amount" data-result-amount>@Model.FormatCurrency(Model.Result?.ValorTotal ?? 0m)</output>
+
+            <dl class="metrics">
+                <div>
+                    <dt>Perman&ecirc;ncia</dt>
+                    <dd data-result-duration>@Model.FormatDuration(Model.Result?.Permanencia)</dd>
+                </div>
+                <div>
+                    <dt>Minutos</dt>
+                    <dd data-result-minutes>@(Model.Result?.MinutosConsiderados.ToString() ?? "-")</dd>
+                </div>
+                <div>
+                    <dt>Horas cobradas</dt>
+                    <dd data-result-hours>@Model.FormatChargedHours(Model.Result?.HorasCobradas)</dd>
+                </div>
+                <div>
+                    <dt>Sa&iacute;da considerada</dt>
+                    <dd data-result-exit>@Model.FormatDateTime(Model.SaidaConsiderada)</dd>
+                </div>
+            </dl>
+
+            <p class="result-note">A sa&iacute;da at&eacute; 15 minutos &eacute; gratuita. Depois, a toler&acirc;ncia de 5 minutos vale para os limites de hora.</p>
+        </aside>
+    </form>
+</section>

@@ -1,0 +1,6 @@
+C:\Users\juann\OneDrive\Documentos\New project 2\publish\Estacionamento.Web-win-x64\appsettings.Development.json
+C:\Users\juann\OneDrive\Documentos\New project 2\publish\Estacionamento.Web-win-x64\appsettings.json
+C:\Users\juann\OneDrive\Documentos\New project 2\publish\Estacionamento.Web-win-x64\tarifas-estacionamento.json
+C:\Users\juann\OneDrive\Documentos\New project 2\publish\Estacionamento.Web-win-x64\Estacionamento.Web.pdb
+C:\Users\juann\OneDrive\Documentos\New project 2\publish\Estacionamento.Web-win-x64\Estacionamento.Core.pdb
+C:\Users\juann\OneDrive\Documentos\New project 2\publish\Estacionamento.Web-win-x64\Estacionamento.Web.exe
