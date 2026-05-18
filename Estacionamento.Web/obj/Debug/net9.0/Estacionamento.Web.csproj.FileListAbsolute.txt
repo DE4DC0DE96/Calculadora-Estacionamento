@@ -1,101 +1,104 @@
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.csproj.AssemblyReference.cache
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.AssemblyInfoInputs.cache
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.AssemblyInfo.cs
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.csproj.CoreCompileInputs.cache
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.RazorAssemblyInfo.cache
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.RazorAssemblyInfo.cs
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\appsettings.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\tarifas-estacionamento.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.staticwebassets.runtime.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.staticwebassets.endpoints.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.exe
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.deps.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.runtimeconfig.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.dll
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.pdb
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Core.dll
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Core.pdb
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\scopedcss\bundle\Estacionamento.Web.styles.css
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\scopedcss\projectbundle\Estacionamento.Web.bundle.scp.css
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\ninidpoopu-mlv21k5csn.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\wkd1jgnnrq-87fc7y1x7t.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\nrc2jidi1l-muycvpuwrr.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\41oi2k9kk6-2z0ns9nrw6.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\dq0wrm4tfv-ttgo8qnofa.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\1a0x6zgpla-o1o13a6vjx.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\s5nrh111nh-0i3buxo5is.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\pr392esvnx-x0q3zqp4vz.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\dopmntfzfi-ag7o75518u.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\nxxm7ctqyo-lzl9nlhx6b.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\zodtqk3j7l-mrlpezrjn3.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\q2083sghcm-83jwlth58m.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\27uyopba82-356vix0kms.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\6idpptrcyh-4v8eqarkd7.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\k1vk7a07gt-47otxtyo56.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\zbv5izzd92-0j3bgjxly4.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\wgvmnn3cex-63fj8s7r0e.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\l7ziuq4e3a-h1s4sie4z3.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\a1w7zp0tiw-notf2xhcfb.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\7gvc8mv1c2-y7v9cxd14o.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\07p1daz1p6-jj8uyg4cgr.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\mrars5cbtu-kbrnm935zg.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\lva6wo32jx-vr1egmr9el.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\e28cardw80-iovd86k7lj.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\klt3zhs3m1-493y06b0oq.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\vfc63a6zx3-6pdc2jztkx.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\4uv2s297x2-6cfz1n2cew.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\wh7v1y7839-ft3s53vfgj.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\cq4877cipq-pk9g2wxc8p.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\spy3zi88sc-hrwsygsryq.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\ujq4qyyr0a-37tfw0ft22.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\gkcu9nvr7p-v0zj4ognzu.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\b715n13h0l-46ein0sx1k.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\mrtz18yigk-pj5nd1wqec.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\8r3ck4esxr-s35ty4nyc5.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\sau8mqzj4p-nvvlpmu67g.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\7wzrdup7vo-06098lyss8.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\o4hpngq7rq-j5mq2jizvt.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\pkoeppzq0a-tdbxkamptv.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\au0iz3465c-c2oey78nd0.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\bje52v8b9b-lcd1t2u6c8.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\24e0oq19t2-r4e9w2rdcm.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\il0vdzvb0i-khv3u5hwcm.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\vp2246d0v6-jd9uben2k1.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\jcoxxc4qo8-dxx9fxp4il.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\mzb7bmti3j-ee0r1s7dh0.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\d4k4j3o2ga-rzd6atqjts.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\ix2a7mv55f-fsbi9cje9m.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\o7wrte0uqk-b7pk76d08c.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\tyb8zhdryh-fvhpjtyr6v.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\lvulw19hto-ub07r2b239.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\xnefoqog1s-cosvhxvwiu.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\wgnduimx42-k8d9w2qqmf.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\4s9hxltkrf-ausgxo2sd3.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\b022kta7xr-d7shbmvgxk.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\vaiw27oc9n-aexeepp0ev.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\cf4tss30fn-erw9l3u2r3.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\hn9ah2kveb-c2jlpeoesf.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\h7qmxt65fz-bqjiyaj88i.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\e3k29psdh1-61n19gt1b8.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\on1nha8mdb-xzln34w51u.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\x4r7bdjd7u-xzln34w51u.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacion.87279A54.Up2Date
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.dll
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\refint\Estacionamento.Web.dll
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.pdb
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.genruntimeconfig.cache
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\ref\Estacionamento.Web.dll
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\bgfqp9zrny-mm1jk0is7i.gz
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Web\obj\Debug\net9.0\compressed\dzwyngi4e4-jv66cdp0pv.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\appsettings.Development.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\appsettings.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\tarifas-estacionamento.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.staticwebassets.runtime.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.staticwebassets.endpoints.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.exe
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.deps.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.runtimeconfig.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.dll
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Web.pdb
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Core.dll
+D:\Calculadora-Estacionamento\Estacionamento.Web\bin\Debug\net9.0\Estacionamento.Core.pdb
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.csproj.AssemblyReference.cache
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.AssemblyInfoInputs.cache
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.AssemblyInfo.cs
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.csproj.CoreCompileInputs.cache
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.RazorAssemblyInfo.cache
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.RazorAssemblyInfo.cs
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.sourcelink.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\scopedcss\bundle\Estacionamento.Web.styles.css
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\scopedcss\projectbundle\Estacionamento.Web.bundle.scp.css
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\0sxl6wzcyk-{0}-7vgqmwiitj-7vgqmwiitj.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\wzpfp673f8-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\3gptf0rak6-{0}-8i949dob3z-8i949dob3z.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\960v8mysf7-{0}-t1cqhe9u97-t1cqhe9u97.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\rp3j0q8y5k-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\7qhanxsdlo-{0}-sejl45xvog-sejl45xvog.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\n781b8a4iw-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\qqe2lsk9q9-{0}-xvp3kq03qx-xvp3kq03qx.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\yzjipzhsjx-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\tt1spj3593-{0}-22vffe00uq-22vffe00uq.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\hscy54lp9g-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\yvfh6keuoe-{0}-qesaa3a1fm-qesaa3a1fm.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\l9zaul75um-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\petjdae4il-{0}-tmc1g35s3z-tmc1g35s3z.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\r63p6h3pxs-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\0h25l0xs5a-{0}-rxsg74s51o-rxsg74s51o.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\mwlyhsjuak-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\fq6hbru6hj-{0}-q9ht133ko3-q9ht133ko3.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\9qv3q6pn6g-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\8bekuheuqz-{0}-gye83jo8yx-gye83jo8yx.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\qiy9v0ep2z-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\x7eovil3ix-{0}-wl58j5mj3v-wl58j5mj3v.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\idp55lotnn-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\715mgl2fyt-{0}-d4r6k3f320-d4r6k3f320.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\2knlc0vfkm-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\2yqvtfmbtk-{0}-keugtjm085-keugtjm085.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\sd5hyxafet-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\qhcj8vunaq-{0}-zub09dkrxp-zub09dkrxp.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\okxograq77-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\iixv4o04ko-{0}-43atpzeawx-43atpzeawx.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\jnbrj7rcyi-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\en6pz30s8h-{0}-ynyaa8k90p-ynyaa8k90p.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\vjp43vfrqz-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\uw9wrmw9qc-{0}-c63t5i9ira-c63t5i9ira.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\mnaplt89gd-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\te5f15dw2s-{0}-4094rpi4f9-4094rpi4f9.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\ynp78ptsdv-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\gr8my4zo8h-{0}-hd3gran6i8-hd3gran6i8.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\c69ih06gnx-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\kekv59a4nl-{0}-ltid2c489k-ltid2c489k.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\0pzhdqp1en-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\utwx8vihn9-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\s6vwf6x2qo-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\cw76k3d2q2-{0}-u9q1upor1n-u9q1upor1n.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\yxax6eoo5o-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\288yke7h8q-{0}-4d85u1mtcx-4d85u1mtcx.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\6hgnasys9m-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\n0qzd15qwa-{0}-03hjc8e09r-03hjc8e09r.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\8csllhys8g-{0}-48y08845bh-48y08845bh.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\2e2qpsro0e-{0}-356vix0kms-356vix0kms.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\4ik86mzajf-{0}-83jwlth58m-83jwlth58m.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\txg4ztrvfl-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\x3ubdaduf4-{0}-worgj0nhwm-worgj0nhwm.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\kt6liph05p-{0}-gk0pw8i4co-gk0pw8i4co.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\wuggc14j9l-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\7w82nciudb-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\17hpa3k6qy-{0}-m9qm4tazc0-m9qm4tazc0.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\z39nz05qv6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\sh4fr68ka1-{0}-jjsuc0puko-jjsuc0puko.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\236xcwj3iv-{0}-9vr69e8ynj-9vr69e8ynj.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\d16f025ty4-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\sssgjwe142-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\wjd4fr5bq5-{0}-mgre4be6f8-mgre4be6f8.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\compressed\y1f8o2okqt-{0}-mgre4be6f8-mgre4be6f8.gz
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\staticwebassets.build.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\staticwebassets.development.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\swae.build.ex.cache
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacion.87279A54.Up2Date
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.dll
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\refint\Estacionamento.Web.dll
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.pdb
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\Estacionamento.Web.genruntimeconfig.cache
+D:\Calculadora-Estacionamento\Estacionamento.Web\obj\Debug\net9.0\ref\Estacionamento.Web.dll

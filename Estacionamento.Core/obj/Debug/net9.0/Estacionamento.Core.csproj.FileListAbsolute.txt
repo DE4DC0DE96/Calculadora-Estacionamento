@@ -1,11 +1,12 @@
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\bin\Debug\net9.0\Estacionamento.Core.deps.json
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\bin\Debug\net9.0\Estacionamento.Core.dll
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\bin\Debug\net9.0\Estacionamento.Core.pdb
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.AssemblyInfoInputs.cache
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.AssemblyInfo.cs
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.csproj.CoreCompileInputs.cache
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.dll
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\obj\Debug\net9.0\refint\Estacionamento.Core.dll
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.pdb
-C:\Users\juann\OneDrive\Documentos\New project 2\Estacionamento.Core\obj\Debug\net9.0\ref\Estacionamento.Core.dll
+D:\Calculadora-Estacionamento\Estacionamento.Core\bin\Debug\net9.0\Estacionamento.Core.deps.json
+D:\Calculadora-Estacionamento\Estacionamento.Core\bin\Debug\net9.0\Estacionamento.Core.dll
+D:\Calculadora-Estacionamento\Estacionamento.Core\bin\Debug\net9.0\Estacionamento.Core.pdb
+D:\Calculadora-Estacionamento\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calculadora-Estacionamento\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.AssemblyInfoInputs.cache
+D:\Calculadora-Estacionamento\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.AssemblyInfo.cs
+D:\Calculadora-Estacionamento\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.csproj.CoreCompileInputs.cache
+D:\Calculadora-Estacionamento\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.sourcelink.json
+D:\Calculadora-Estacionamento\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.dll
+D:\Calculadora-Estacionamento\Estacionamento.Core\obj\Debug\net9.0\refint\Estacionamento.Core.dll
+D:\Calculadora-Estacionamento\Estacionamento.Core\obj\Debug\net9.0\Estacionamento.Core.pdb
+D:\Calculadora-Estacionamento\Estacionamento.Core\obj\Debug\net9.0\ref\Estacionamento.Core.dll

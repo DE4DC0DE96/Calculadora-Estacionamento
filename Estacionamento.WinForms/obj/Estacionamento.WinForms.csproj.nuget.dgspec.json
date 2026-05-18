@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.WinForms\\Estacionamento.WinForms.csproj": {}
+    "D:\\Calculadora-Estacionamento\\Estacionamento.WinForms\\Estacionamento.WinForms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\Estacionamento.Core.csproj": {
+    "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\Estacionamento.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\Estacionamento.Core.csproj",
+        "projectUniqueName": "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\Estacionamento.Core.csproj",
         "projectName": "Estacionamento.Core",
-        "projectPath": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\Estacionamento.Core.csproj",
+        "projectPath": "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\Estacionamento.Core.csproj",
         "packagesPath": "C:\\Users\\juann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\obj\\",
+        "outputPath": "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "imports": [
             "net461",
@@ -65,18 +67,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.WinForms\\Estacionamento.WinForms.csproj": {
+    "D:\\Calculadora-Estacionamento\\Estacionamento.WinForms\\Estacionamento.WinForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.WinForms\\Estacionamento.WinForms.csproj",
+        "projectUniqueName": "D:\\Calculadora-Estacionamento\\Estacionamento.WinForms\\Estacionamento.WinForms.csproj",
         "projectName": "Estacionamento.WinForms",
-        "projectPath": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.WinForms\\Estacionamento.WinForms.csproj",
+        "projectPath": "D:\\Calculadora-Estacionamento\\Estacionamento.WinForms\\Estacionamento.WinForms.csproj",
         "packagesPath": "C:\\Users\\juann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.WinForms\\obj\\",
+        "outputPath": "D:\\Calculadora-Estacionamento\\Estacionamento.WinForms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,11 +96,12 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0-windows7.0": {
+          "net9.0-windows": {
+            "framework": "net9.0-windows7.0",
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\Estacionamento.Core.csproj": {
-                "projectPath": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\Estacionamento.Core.csproj"
+              "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\Estacionamento.Core.csproj": {
+                "projectPath": "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\Estacionamento.Core.csproj"
               }
             }
           }
@@ -113,10 +116,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
-        "net9.0-windows7.0": {
+        "net9.0-windows": {
+          "framework": "net9.0-windows7.0",
           "targetAlias": "net9.0-windows",
           "imports": [
             "net461",
@@ -137,7 +141,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

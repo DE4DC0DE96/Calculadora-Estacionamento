@@ -1,0 +1,44 @@
+## Visual Studio
+.vs/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leases/
+x64/
+x86/
+[Aa]R[Mm]/
+[Aa]R[Mm]64/
+bld/
+[Bb]in/
+[Ob]j/
+Log/
+Logs/
+
+## Visual Studio Code
+.vscode/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Mono/VS Mac
+.DS_Store
+
+## OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+
+## Build outputs
+**/[Bb]in/
+**/[Oo]bj/

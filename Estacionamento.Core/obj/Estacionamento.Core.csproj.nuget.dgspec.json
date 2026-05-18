@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\Estacionamento.Core.csproj": {}
+    "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\Estacionamento.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\Estacionamento.Core.csproj": {
+    "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\Estacionamento.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\Estacionamento.Core.csproj",
+        "projectUniqueName": "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\Estacionamento.Core.csproj",
         "projectName": "Estacionamento.Core",
-        "projectPath": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\Estacionamento.Core.csproj",
+        "projectPath": "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\Estacionamento.Core.csproj",
         "packagesPath": "C:\\Users\\juann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juann\\OneDrive\\Documentos\\New project 2\\Estacionamento.Core\\obj\\",
+        "outputPath": "D:\\Calculadora-Estacionamento\\Estacionamento.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -44,19 +45,12 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.12, )",
-              "autoReferenced": true
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -68,31 +62,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[9.0.12, 9.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
